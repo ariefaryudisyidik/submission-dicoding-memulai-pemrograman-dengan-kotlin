@@ -1,2 +1,1 @@
-# submission-memulai-pemrograman-dengan-kotlin
-Submission Dicoding kelas Memulai Pemrograman Dengan Kotlin
+Repository ini memuat daftar contoh kode dan latihan yang ada pada kelas **Memulai Pemrograman dengan Kotlin**

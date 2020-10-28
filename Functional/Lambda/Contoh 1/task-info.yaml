@@ -1,0 +1,18 @@
+type: theory
+custom_name: Contoh 1
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    // main function
+    fun main() {
+        printMessage("Hello From Lambda")
+    }
+
+    val printMessage = { message: String -> println(message) }
+  learner_created: false
+status: Solved
+feedback:
+  time: Sat, 24 Oct 2020 18:39:08 UTC
+record: -1
+post_submission_on_open: true
